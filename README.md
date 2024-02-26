@@ -1,7 +1,8 @@
 # Getting Started
 
-Welcome to your new project.
-(![Reference](https://www.youtube.com/playlist?list=PL6RpkC85SLQBFi4SK77b2y4EwlXMVG0XJ))
+Welcome to your new project. <br/>
+
+#### [Reference](https://www.youtube.com/playlist?list=PL6RpkC85SLQBFi4SK77b2y4EwlXMVG0XJ)
 
 It contains these folders and files, following our recommended project layout:
 
