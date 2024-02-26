@@ -1,0 +1,16 @@
+GET http://localhost:4004/odata/v4/catalog/Books
+
+###
+GET http://localhost:4004/odata/v4/catalog/Authors?$expand=books
+
+###
+POST http://localhost:4004/odata/v4/catalog/Books
+Content-Type: application/json
+
+{"ID":981, "title": "Atomic habits", "stock":101, "author_ID": 4761}
+
+###
+POST http://localhost:4004/odata/v4/catalog/Authors
+Content-Type: application/json
+
+{"ID":4761, "name": "James Clear"}
